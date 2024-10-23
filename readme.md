@@ -37,7 +37,7 @@ Feel free to submit issues or pull requests for improvements and bug fixes.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/tusharb331/Realtime-device-tracker.git
+   git clone https://github.com/Tusharb331/SpotTrack-A-Real-time-Device-Tracker.git
    ```
 
 **Note**: Ensure you have Node.js and npm installed on your machine before running the project.
